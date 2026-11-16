@@ -1,85 +1,97 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<img src="assets/logo.svg" width="220" alt="KINEX.js Logo">
+<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="assets/logo.svg" width="260" alt="KINEX.js"> </a>
 
-\<br>
+<br>
 
 # KINEX.js
 
-### Build beyond the ordinary.
+**Beyond static interfaces.**
 
-A collection of lightweight JavaScript components, animations and interactive experiences ... built for the modern web.
+Lightweight JavaScript components, animations and interactions for the modern web.
 
-\<br>
+<br>
 
-[Explore Components](https://github.com/KINEX-js/KINEX.js) · [Documentation](https://github.com/KINEX-js/KINEX.js) · [Contribute](CONTRIBUTING.md)
+<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="[https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&label=STARS](https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158\&label=STARS)" alt="GitHub stars"> </a> <a href="[https://github.com/KINEX-js/KINEX.js/releases](https://github.com/KINEX-js/KINEX.js/releases)">   <img src="[https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&label=RELEASE](https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158\&label=RELEASE)" alt="Latest release"> </a> <a href="[https://github.com/KINEX-js/KINEX.js/blob/main/LICENSE](https://github.com/KINEX-js/KINEX.js/blob/main/LICENSE)">   <img src="[https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge&color=30D158](https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158)" alt="License"> </a>
 
-\<br>
+<br><br>
 
+<a href="[https://github.com/KINEX-js](https://github.com/KINEX-js)">   **EXPLORE KINEX** </a>
 
-\
-
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-## The collection is growing.
+## THE COLLECTION
 
-### COMPONENTS AVAILABLE
+<a href="[https://github.com/KINEX-js/KINEX.js/tree/main/components](https://github.com/KINEX-js/KINEX.js/tree/main/components)">   <img src="[https://img.shields.io/github/directory-file-count/KINEX-js/KINEX.js/components?type=file&extension=js&style=for-the-badge&label=PUBLISHED%20COMPONENTS&color=30D158](https://img.shields.io/github/directory-file-count/KINEX-js/KINEX.js/components?type=file\&extension=js\&style=for-the-badge\&label=PUBLISHED%20COMPONENTS\&color=30D158)" alt="JavaScript component file count"> </a>
 
-# 9
+<sub>Live count of JavaScript component files in the components directory.</sub>
 
-\<sub>Live count of published components in KINEX.js.\</sub>
+<br><br>
 
-\</div>
+</div>
 
----
+<div align="center">
 
-\<div align="center">
+## EXPERIENCE THE MOTION
 
-## Not just components. Experiences.
+<img src="assets/kinex-motion.gif" width="100%" alt="KINEX.js component and animation showcase">
 
-\</div>
-
-**01 ~ Components**
-
-Reusable interface elements designed to be integrated, customized and extended.
-
-**02 ~ Animations**
-
-Fluid motion and carefully designed transitions that bring interfaces to life.
-
-**03 ~ Interactions**
-
-Responsive effects and interactive experiences that make the web feel alive.
-
-**04 ~ Freedom**
-
-Framework-independent JavaScript. Use it with the tools and workflow you already have.
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-## See it. Use it. Make it yours.
+## ONE LIBRARY. ENDLESS POSSIBILITIES.
 
-Explore the interactive collection and discover what you can build.
+</div>
 
-\<br>
+<details>
+<summary><b>01 ~ COMPONENTS</b> &nbsp; Reusable interface elements</summary>
 
-\<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)"> \<img src="[https://img.shields.io/badge/EXPLORE%20KINEX-30D158?style=for-the-badge&logoColor=black&labelColor=08090B](https://img.shields.io/badge/EXPLORE%20KINEX-30D158?style=for-the-badge\&logoColor=black\&labelColor=08090B)" alt="Explore KINEX"> \</a>
+Build interfaces using customizable, ready-to-use JavaScript components.
 
-\<br>\<br>
+</details>
 
-**Designed for developers. Built for possibilities.**
+<details> <summary><b>02 ~ ANIMATIONS</b> &nbsp; Motion that makes an impact</summary>
 
-\<br>
+Bring websites to life with smooth animations, transitions and visual effects.
 
-\<img src="assets/logo.svg" width="42" alt="KINEX mark">
+</details>
 
-\<sub>© KINEX TEAM\</sub>
+<details>
+<summary><b>03 ~ INTERACTIONS</b> &nbsp; Interfaces that respond</summary>
 
-\</div>
+Create engaging experiences with interactive elements and dynamic behaviours.
+
+</details>
+
+<details> <summary><b>04 ~ CUSTOMIZATION</b> &nbsp; Your design, your rules</summary>
+
+Adapt components to your own visual language and development workflow.
+
+</details>
+
+---
+
+<div align="center">
+
+## MADE TO BE USED.
+
+Not another framework to learn. Just JavaScript tools you can integrate into your projects.
+
+<br>
+
+<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="[https://img.shields.io/badge/VIEW%20SOURCE-08090B?style=for-the-badge&logo=github&logoColor=30D158](https://img.shields.io/badge/VIEW%20SOURCE-08090B?style=for-the-badge\&logo=github\&logoColor=30D158)" alt="View source"> </a> <a href="[https://github.com/KINEX-js](https://github.com/KINEX-js)">   <img src="[https://img.shields.io/badge/EXPLORE%20PROJECTS-30D158?style=for-the-badge&logoColor=08090B](https://img.shields.io/badge/EXPLORE%20PROJECTS-30D158?style=for-the-badge\&logoColor=08090B)" alt="Explore projects"> </a>
+
+<br><br>
+
+**Built by KINEX TEAM.**
+
+<sub>© KINEX TEAM · Open source, built for the web.</sub>
+
+</div>
