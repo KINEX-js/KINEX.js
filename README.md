@@ -65,23 +65,22 @@ A first look at what's already available. Every component is ready to use out of
 <table>
   <tr>
     <td align="center" width="33%">
-      <video src="assets/flip-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
+      <img src="assets/flip-card.gif" width="100%" alt="Flip Card Demo"><br>
       <b>Flip Card</b><br>
       <sub>Zooms on hover, flips on click</sub>
     </td>
     <td align="center" width="33%">
-      <video src="assets/tilt-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
+      <img src="assets/tilt-card.gif" width="100%" alt="Tilt Card Demo"><br>
       <b>Tilt Card</b><br>
       <sub>Follows your pointer in 3D</sub>
     </td>
     <td align="center" width="33%">
-      <video src="assets/holo-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
+      <img src="assets/holo-card.gif" width="100%" alt="Holo Card Demo"><br>
       <b>Holo Card</b><br>
       <sub>Holographic shine that reacts to motion</sub>
     </td>
   </tr>
 </table>
-
 <br>
 
 ### 🚀 &nbsp;200+ more components are on the way
