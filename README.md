@@ -66,17 +66,17 @@ A first look at what's already available. Every component is ready to use out of
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/flip-card.png" alt="Flip Card" width="100%"><br>
+      <video src="assets/flip-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
       <b>Flip Card</b><br>
       <sub>Zooms on hover, flips on click</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/tilt-card.png" alt="Tilt Card" width="100%"><br>
+      <video src="assets/tilt-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
       <b>Tilt Card</b><br>
       <sub>Follows your pointer in 3D</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/holo-card.png" alt="Holo Card" width="100%"><br>
+      <video src="assets/holo-card.mp4" width="100%" autoplay loop muted playsinline></video><br>
       <b>Holo Card</b><br>
       <sub>Holographic shine that reacts to motion</sub>
     </td>
