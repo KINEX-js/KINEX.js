@@ -1,97 +1,196 @@
 <div align="center">
 
-<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="assets/logo.svg" width="260" alt="KINEX.js"> </a>
-
-<br>
-
-# KINEX.js
-
-**Beyond static interfaces.**
-
-Lightweight JavaScript components, animations and interactions for the modern web.
-
-<br>
-
-<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="[https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&label=STARS](https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158\&label=STARS)" alt="GitHub stars"> </a> <a href="[https://github.com/KINEX-js/KINEX.js/releases](https://github.com/KINEX-js/KINEX.js/releases)">   <img src="[https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&label=RELEASE](https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158\&label=RELEASE)" alt="Latest release"> </a> <a href="[https://github.com/KINEX-js/KINEX.js/blob/main/LICENSE](https://github.com/KINEX-js/KINEX.js/blob/main/LICENSE)">   <img src="[https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge&color=30D158](https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge\&color=30D158)" alt="License"> </a>
+<img src="assets/logo.svg" width="280" alt="KINEX.js">
 
 <br><br>
 
-<a href="[https://github.com/KINEX-js](https://github.com/KINEX-js)">   **EXPLORE KINEX** </a>
+<a href="https://github.com/KINEX-js/KINEX.js">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1400&color=30D158&center=true&vCenter=true&width=640&lines=Beyond+static+interfaces.;200%2B+ready-to-use+components+coming.;One+script+tag.+Zero+setup." alt="Beyond static interfaces. 200+ ready-to-use components coming. One script tag. Zero setup.">
+</a>
 
-</div>
+<br>
 
----
+[![Stars](https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge&logo=github&color=30D158&labelColor=08090B)](https://github.com/KINEX-js/KINEX.js/stargazers)
+[![Release](https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&labelColor=08090B)](https://github.com/KINEX-js/KINEX.js/releases)
+[![License](https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&labelColor=08090B)](LICENSE)
+[![Dependencies](https://img.shields.io/badge/DEPENDENCIES-ZERO-30D158?style=for-the-badge&labelColor=08090B)](#-why-kinex)
 
-<div align="center">
+<br>
 
-## THE COLLECTION
+**[⚡ Quick start](#-quick-start)** &nbsp;·&nbsp; **[🎨 Showcase](#-showcase)** &nbsp;·&nbsp; **[🧩 How it works](#-how-it-works)** &nbsp;·&nbsp; **[🤝 Contribute](#-contributing)**
 
-<a href="[https://github.com/KINEX-js/KINEX.js/tree/main/components](https://github.com/KINEX-js/KINEX.js/tree/main/components)">   <img src="[https://img.shields.io/github/directory-file-count/KINEX-js/KINEX.js/components?type=file&extension=js&style=for-the-badge&label=PUBLISHED%20COMPONENTS&color=30D158](https://img.shields.io/github/directory-file-count/KINEX-js/KINEX.js/components?type=file\&extension=js\&style=for-the-badge\&label=PUBLISHED%20COMPONENTS\&color=30D158)" alt="JavaScript component file count"> </a>
-
-<sub>Live count of JavaScript component files in the components directory.</sub>
-
+<!-- Add your website here when it's live:
 <br><br>
+[![Website](https://img.shields.io/badge/OPEN%20THE%20WEBSITE-30D158?style=for-the-badge&logoColor=08090B)](YOUR-WEBSITE-URL)
+-->
 
 </div>
 
-<div align="center">
-
-## EXPERIENCE THE MOTION
-
-<img src="assets/kinex-motion.gif" width="100%" alt="KINEX.js component and animation showcase">
-
-</div>
+<br>
 
 ---
 
+## ⚡ Quick start
+
+Two steps. No install, no build tools, no framework.
+
+**1 &nbsp;Add the script** just before your closing `</body>` tag:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/KINEX-js/kinex.js-components@main/kinex.js"></script>
+```
+
+**2 &nbsp;Drop in a component** anywhere in your HTML:
+
+```html
+<div data-kinex="flip-card">
+  <div data-front>Front side</div>
+  <div data-back>Back side</div>
+</div>
+```
+
+**That's it.** KINEX finds every `data-kinex` element on the page and brings it to life.
+
+> 💡 **Going live?** Pin a version instead of `@main` (for example `@1.0.0`) so future updates never change your site unexpectedly.
+
+<br>
+
+---
+
+## 🎨 Showcase
+
+A first look at what's already available. Every component is ready to use out of the box.
+
 <div align="center">
 
-## ONE LIBRARY. ENDLESS POSSIBILITIES.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/flip-card.png" alt="Flip Card" width="100%"><br>
+      <b>Flip Card</b><br>
+      <sub>Zooms on hover, flips on click</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/tilt-card.png" alt="Tilt Card" width="100%"><br>
+      <b>Tilt Card</b><br>
+      <sub>Follows your pointer in 3D</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/holo-card.png" alt="Holo Card" width="100%"><br>
+      <b>Holo Card</b><br>
+      <sub>Holographic shine that reacts to motion</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🚀 &nbsp;200+ more components are on the way
+
+Cards are just the beginning. Buttons, navigation, effects, and more are being built right now.
+
+**⭐ Star the repo to follow along.**
+
+</div>
+
+<br>
+
+---
+
+## 🧩 How it works
+
+You never have to write or edit CSS classes by hand. **Everything is handled through the KINEX GUI.**
+
+<div align="center">
+
+| &nbsp;1&nbsp; | &nbsp;2&nbsp; | &nbsp;3&nbsp; |
+| :---: | :---: | :---: |
+| **Pick** a component | **Customize** it visually with colors, sizes, and corners | **Copy & paste** the code into your page |
 
 </div>
 
 <details>
-<summary><b>01 ~ COMPONENTS</b> &nbsp; Reusable interface elements</summary>
+<summary><b>👀 Curious what's happening under the hood?</b></summary>
 
-Build interfaces using customizable, ready-to-use JavaScript components.
+<br>
+
+Each component is styled with CSS variables, and the GUI sets them for you. For example, the Flip Card exposes:
+
+| Variable | Controls |
+| --- | --- |
+| `--kx-w` | Card width |
+| `--kx-radius` | Corner roundness |
+| `--kx-front-bg` / `--kx-front-fg` | Front background / text color |
+| `--kx-back-bg` / `--kx-back-fg` | Back background / text color |
+
+**You don't have to worry about any of this.** It's here for the curious and for anyone who likes to tinker.
 
 </details>
 
-<details> <summary><b>02 ~ ANIMATIONS</b> &nbsp; Motion that makes an impact</summary>
+<br>
 
-Bring websites to life with smooth animations, transitions and visual effects.
+---
 
-</details>
+## 🌟 Why KINEX
+
+<div align="center">
+
+| | |
+| :--- | :--- |
+| ⚡ **Zero setup** | One script tag and plain HTML |
+| 🪶 **Lightweight** | No dependencies, no framework to learn |
+| 🎛️ **Visual customization** | Style everything through the GUI, no CSS needed |
+| ♿ **Accessible** | Keyboard support built in |
+| 🌐 **Works anywhere** | Static sites, CMS pages, prototypes, existing projects |
+
+</div>
 
 <details>
-<summary><b>03 ~ INTERACTIONS</b> &nbsp; Interfaces that respond</summary>
+<summary><b>🌍 Browser support</b></summary>
 
-Create engaging experiences with interactive elements and dynamic behaviours.
+<br>
 
-</details>
-
-<details> <summary><b>04 ~ CUSTOMIZATION</b> &nbsp; Your design, your rules</summary>
-
-Adapt components to your own visual language and development workflow.
+Works in all modern browsers: Chrome, Edge, Firefox, and Safari.
 
 </details>
+
+<br>
+
+---
+
+## 📁 Project structure
+
+| Repository | What lives there |
+| --- | --- |
+| **[KINEX.js](https://github.com/KINEX-js/KINEX.js)** *(you are here)* | The website, examples, documentation, screenshots, and contribution guidelines |
+| **[kinex.js-components](https://github.com/KINEX-js/kinex.js-components)** | The `kinex.js` file and all component code, served through the CDN |
+
+> The components repository powers the CDN and isn't meant for browsing. Everything you need to explore, learn, and get started is right here.
+
+<br>
+
+---
+
+## 🤝 Contributing
+
+We're just getting started, and every contribution counts: a new component, a bug fix, better docs, or simply an idea.
+
+1. 📖 Read the [Contributing Guide](CONTRIBUTING.md)
+2. 🔍 Check existing issues and pull requests
+3. 💬 Open an issue before starting any major feature
+
+🔒 Found a security problem? See [SECURITY.md](SECURITY.md).
+
+<br>
 
 ---
 
 <div align="center">
 
-## MADE TO BE USED.
+### Built for the web. Built by the community.
 
-Not another framework to learn. Just JavaScript tools you can integrate into your projects.
+Released under the [MIT License](LICENSE).
 
-<br>
-
-<a href="[https://github.com/KINEX-js/KINEX.js](https://github.com/KINEX-js/KINEX.js)">   <img src="[https://img.shields.io/badge/VIEW%20SOURCE-08090B?style=for-the-badge&logo=github&logoColor=30D158](https://img.shields.io/badge/VIEW%20SOURCE-08090B?style=for-the-badge\&logo=github\&logoColor=30D158)" alt="View source"> </a> <a href="[https://github.com/KINEX-js](https://github.com/KINEX-js)">   <img src="[https://img.shields.io/badge/EXPLORE%20PROJECTS-30D158?style=for-the-badge&logoColor=08090B](https://img.shields.io/badge/EXPLORE%20PROJECTS-30D158?style=for-the-badge\&logoColor=08090B)" alt="Explore projects"> </a>
-
-<br><br>
-
-**Built by KINEX TEAM.**
-
-<sub>© KINEX TEAM · Open source, built for the web.</sub>
+<sub>© KINEX Team · Open source</sub>
 
 </div>
