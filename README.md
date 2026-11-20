@@ -11,7 +11,6 @@
 <br>
 
 [![Stars](https://img.shields.io/github/stars/KINEX-js/KINEX.js?style=for-the-badge&logo=github&color=30D158&labelColor=08090B)](https://github.com/KINEX-js/KINEX.js/stargazers)
-[![Release](https://img.shields.io/github/v/release/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&labelColor=08090B)](https://github.com/KINEX-js/KINEX.js/releases)
 [![License](https://img.shields.io/github/license/KINEX-js/KINEX.js?style=for-the-badge&color=30D158&labelColor=08090B)](LICENSE)
 [![Dependencies](https://img.shields.io/badge/DEPENDENCIES-ZERO-30D158?style=for-the-badge&labelColor=08090B)](#-why-kinex)
 
